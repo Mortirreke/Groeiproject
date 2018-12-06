@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Herhaling/1_Herhaling.iml" filepath="$PROJECT_DIR$/1_Herhaling/1_Herhaling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_generics/2_generics.iml" filepath="$PROJECT_DIR$/2_generics/2_generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Reflection/3_Reflection.iml" filepath="$PROJECT_DIR$/3_Reflection/3_Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Logging/4_Logging.iml" filepath="$PROJECT_DIR$/4_Logging/4_Logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_patterns_A/5_patterns_A.iml" filepath="$PROJECT_DIR$/5_patterns_A/5_patterns_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Patterns_B/6_Patterns_B.iml" filepath="$PROJECT_DIR$/6_Patterns_B/6_Patterns_B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_Streams/7_Streams.iml" filepath="$PROJECT_DIR$/7_Streams/7_Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_Persisentie/8_Persisentie.iml" filepath="$PROJECT_DIR$/8_Persisentie/8_Persisentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Groeiproject.iml" filepath="$PROJECT_DIR$/Groeiproject.iml" />
+    </modules>
+  </component>
+</project>

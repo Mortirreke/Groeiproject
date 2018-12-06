@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-16T16:03:45</date>
+  <millis>1539698625923</millis>
+  <sequence>0</sequence>
+  <logger>be.kdg.racecircuit.model.Racecircuit</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.racecircuit.model.Racecircuit</class>
+  <method>setAantalBochten</method>
+  <thread>1</thread>
+  <message>je hebt een foutief aantal (-1) voor Spa</message>
+</record>
+<record>
+  <date>2018-10-16T16:03:46</date>
+  <millis>1539698626033</millis>
+  <sequence>1</sequence>
+  <logger>be.kdg.racecircuit.model.Racecircuit</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.racecircuit.model.Racecircuit</class>
+  <method>setAantalBochten</method>
+  <thread>1</thread>
+  <message>je hebt een foutief aantal (10000) voor Zolder</message>
+</record>
+<record>
+  <date>2018-10-16T16:03:46</date>
+  <millis>1539698626033</millis>
+  <sequence>2</sequence>
+  <logger>be.kdg.racecircuit.model.Racecircuit</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.racecircuit.model.Racecircuit</class>
+  <method>setBouwjaar</method>
+  <thread>1</thread>
+  <message>2020-12-23 is een foutief jaar voor Circuit of the Americas want dat ligt na 2018</message>
+</record>
+<record>
+  <date>2018-10-16T16:03:46</date>
+  <millis>1539698626035</millis>
+  <sequence>3</sequence>
+  <logger>be.kdg.racecircuit.model.Racecircuits</logger>
+  <level>FINER</level>
+  <class>be.kdg.racecircuit.model.Racecircuits</class>
+  <method>voegToe</method>
+  <thread>1</thread>
+  <message>Spawordt toegevoegd uit de treeset</message>
+</record>
+<record>
+  <date>2018-10-16T16:03:46</date>
+  <millis>1539698626036</millis>
+  <sequence>4</sequence>
+  <logger>be.kdg.racecircuit.model.Racecircuits</logger>
+  <level>FINER</level>
+  <class>be.kdg.racecircuit.model.Racecircuits</class>
+  <method>voegToe</method>
+  <thread>1</thread>
+  <message>Zolderwordt toegevoegd uit de treeset</message>
+</record>
+<record>
+  <date>2018-10-16T16:03:46</date>
+  <millis>1539698626036</millis>
+  <sequence>5</sequence>
+  <logger>be.kdg.racecircuit.model.Racecircuits</logger>
+  <level>FINER</level>
+  <class>be.kdg.racecircuit.model.Racecircuits</class>
+  <method>voegToe</method>
+  <thread>1</thread>
+  <message>Circuit of the Americaswordt toegevoegd uit de treeset</message>
+</record>
+<record>
+  <date>2018-10-16T16:03:46</date>
+  <millis>1539698626036</millis>
+  <sequence>6</sequence>
+  <logger>be.kdg.racecircuit.model.Racecircuits</logger>
+  <level>FINER</level>
+  <class>be.kdg.racecircuit.model.Racecircuits</class>
+  <method>voegToe</method>
+  <thread>1</thread>
+  <message>Circuit de la Sarthewordt toegevoegd uit de treeset</message>
+</record>
+<record>
+  <date>2018-10-16T16:03:46</date>
+  <millis>1539698626037</millis>
+  <sequence>7</sequence>
+  <logger>be.kdg.racecircuit.model.Racecircuits</logger>
+  <level>FINER</level>
+  <class>be.kdg.racecircuit.model.Racecircuits</class>
+  <method>voegToe</method>
+  <thread>1</thread>
+  <message>Circuit de Monacowordt toegevoegd uit de treeset</message>
+</record>
+</log>

@@ -25,36 +25,36 @@ public class UnmodifiableRacecircuits implements RacecircuitsInterface {
 
     @Override
     public boolean voegToe(Racecircuit racecircuit) {
-        return racecircuits.voegToe(racecircuit);
+        throw new UnsupportedOperationException();
     }
 
     @Override
     public boolean verwijder(String naam) {
-        return false;
+        throw new UnsupportedOperationException();
     }
 
     @Override
     public Racecircuit zoek(String naam) {
-        return null;
+        return racecircuits.zoek(naam);
     }
 
     @Override
     public int getAantal() {
-        return 0;
+        return racecircuits.getAantal();
     }
 
     @Override
     public List<Racecircuit> gesorteerdOpLengte() {
-        return null;
+        return racecircuits.gesorteerdOpLengte();
     }
 
     @Override
     public List<Racecircuit> gesorteerdOpNaam() {
-        return null;
+        return racecircuits.gesorteerdOpNaam();
     }
 
     @Override
     public List<Racecircuit> gesorteerdOpLocatie() {
-        return null;
+        return racecircuits.gesorteerdOpLocatie();
     }
 }

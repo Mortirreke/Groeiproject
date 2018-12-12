@@ -1,28 +1,20 @@
 package be.kdg.racecircuit.model;
 
-import com.sun.xml.internal.bind.v2.TODO;
-
-import java.beans.Transient;
-import java.io.Serializable;
 import java.time.LocalDate;
 
 /**
  * @author: Quinten Mortier
  **/
-public class Racecircuit implements Comparable<Racecircuit>, Serializable {
-
-    private static final long serialVersionUID = 1L;
-    private int id;
+public class Racecircuit implements Comparable<Racecircuit> {
     private String naam;
     private int aantalBochten;
-    private transient String locatie;
+    private String locatie;
     private double aantalKM;
-    private transient TypeCircuit type;
-    private transient LocalDate bouwjaar;
+    private TypeCircuit type;
+    private LocalDate bouwjaar;
 
 
     public Racecircuit(String naam, int aantalBochten, String locatie, double aantalKM, TypeCircuit type, LocalDate bouwjaar) {
-        this.id = -1;
         this.setNaam(naam);
         this.setAantalBochten(aantalBochten);
         this.locatie = locatie;
@@ -32,15 +24,17 @@ public class Racecircuit implements Comparable<Racecircuit>, Serializable {
     }
 
 
-    public Racecircuit(String naam, int aantalBochten, String locatie, double aantalKM, TypeCircuit type, LocalDate bouwjaar, int id) {
-        this.id = id;
-        this.setNaam(naam);
-        this.setAantalBochten(aantalBochten);
-        this.locatie = locatie;
-        this.setAantalKM(aantalKM);
-        this.setType(type);
-        this.setBouwjaar(bouwjaar);
+    public Racecircuit(){
+        this.setNaam(null);
+        this.setAantalBochten(0);
+        this.locatie = null;
+        this.setAantalKM(0);
+        this.setType(null);
+        this.setBouwjaar(LocalDate.MIN);
     }
+
+
+
 
     public boolean equals(Racecircuit racecircuit) {
         return naam.equals(racecircuit.naam);
@@ -65,6 +59,10 @@ public class Racecircuit implements Comparable<Racecircuit>, Serializable {
             this.aantalBochten = aantalBochten;
         }
 
+    }
+
+    public void setLocatie(String locatie) {
+        this.locatie = locatie;
     }
 
     public void setAantalKM(double aantalKM) {

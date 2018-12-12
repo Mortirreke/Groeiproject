@@ -1,29 +1,23 @@
 package be.kdg.racecircuit.model;
 
-import be.kdg.racecircuit.persist.RacecircuitDao;
-
-import java.io.Serializable;
 import java.util.*;
 
 /**
  * @author: Quinten Mortier
  **/
-public class Racecircuits implements Serializable, RacecircuitDao {
+public class Racecircuits {
     public TreeSet<Racecircuit> circuits = new TreeSet<>();
 
-    @Override
     public TreeSet<Racecircuit> getCircuits() {
         return circuits;
     }
 
 
 
-    @Override
     public boolean voegToe(Racecircuit racecircuit){
             return circuits.add(racecircuit);
     }
 
-    @Override
     public boolean verwijder(String naam){
 
         for (Racecircuit circuit : circuits) {
@@ -34,7 +28,6 @@ public class Racecircuits implements Serializable, RacecircuitDao {
         return false;
     }
 
-    @Override
     public Racecircuit zoek(String naam){
         for (Racecircuit circuit : circuits) {
             if (naam.equals(circuit.getNaam())){
@@ -44,12 +37,10 @@ public class Racecircuits implements Serializable, RacecircuitDao {
         return null;
     }
 
-    @Override
     public int getAantal(){
         return circuits.size();
     }
 
-    @Override
     public List<Racecircuit> gesorteerdOpLengte(){
         List<Racecircuit> ll = new LinkedList<>();
         ll.addAll(circuits);
@@ -58,7 +49,6 @@ public class Racecircuits implements Serializable, RacecircuitDao {
         return ll;
     }
 
-    @Override
     public List<Racecircuit> gesorteerdOpNaam(){
         List<Racecircuit> ll = new LinkedList<>();
         ll.addAll(circuits);
@@ -66,7 +56,6 @@ public class Racecircuits implements Serializable, RacecircuitDao {
         Collections.sort(ll, new Comparators.SortOnNaam());
         return ll;
     }
-    @Override
     public List<Racecircuit> gesorteerdOpLocatie(){
         List<Racecircuit> ll = new LinkedList<>();
         ll.addAll(circuits);

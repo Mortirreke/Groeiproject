@@ -19,7 +19,7 @@ public class RacecircuitDbDao implements RacecircuitDao {
 
     public RacecircuitDbDao(String url) {
         try {
-            connection = DriverManager.getConnection(url, "", "");
+            connection = DriverManager.getConnection(url, "admin", "admin");
         } catch (SQLException e) {
             e.printStackTrace();
         }

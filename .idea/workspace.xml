@@ -2,24 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="384882ca-3d90-4cbb-958e-c781239fc0ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/data/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/Racecircuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/RacecircuitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/Racecircuits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/TypeCircuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/threading/RacecircuitRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo_8_JDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/persist/RacecircuitDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/persist/RacecircuitDbDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Patterns_B/src/Demo_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Patterns_B/src/Demo_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Patterns_B/src/patterns/UnmodifiableRacecircuits.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Patterns_B/src/patterns/UnmodifiableRacecircuits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/Racecircuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/Racecircuit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/Racecircuits.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/Racecircuits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/threading/RacecircuitRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/threading/RacecircuitRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/8_Persisentie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/8_Persistentie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/db/persoon.ser" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/db/persoon.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/Demo_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo_8_JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/Demo_8_JDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/data/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/data/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/Racecircuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/model/Racecircuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/Racecircuits.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/model/Racecircuits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/TypeCircuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/model/TypeCircuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/persist/RacecircuitDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/persist/RacecircuitDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/persist/RacecircuitDbDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/persist/RacecircuitDbDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/localhost.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/localhost.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/localhost.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/localhost.script" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8_Persisentie/be/kdg/racecircuit/Demo_8_JDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/8_Persisentie/be/kdg/racecircuit/Demo_8_JDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8_Persisentie/be/kdg/racecircuit/persist/RacecircuitDbDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/8_Persisentie/be/kdg/racecircuit/persist/RacecircuitDbDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/racecircuitDB/racecircuits.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/racecircuitDB/racecircuits.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/racecircuitDB/racecircuits.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/racecircuitDB/racecircuits.script" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,36 +55,29 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="DB" type="feb32156:DbDataSourceImpl" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/Racecircuit.java">
+        <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/persist/RacecircuitDbDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-935">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="e#1345#1346#0" expanded="true" />
-                <element signature="e#1383#1384#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/threading/RacecircuitRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="320">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,6 +88,20 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/Demo_8_JDBC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/7_Streams/src/be/kdg/racecircuit/demo_7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="92" column="69" lean-forward="true" selection-start-line="92" selection-start-column="69" selection-end-line="92" selection-end-column="69" />
+              <caret line="92" column="69" selection-start-line="92" selection-start-column="69" selection-end-line="92" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,28 +146,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/data/Data.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/RacecircuitFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_patterns_A/src/model/Racecircuit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="33" />
+            <state relative-caret-position="-289">
+              <caret line="30" column="57" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -186,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_Herhaling/src/be/kdg/racecircuit/data/Data.java" />
         <option value="$PROJECT_DIR$/1_Herhaling/src/be/kdg/racecircuit/model/Racecircuits.java" />
         <option value="$PROJECT_DIR$/1_Herhaling/src/be/kdg/racecircuit/Demo.java" />
         <option value="$PROJECT_DIR$/3_Reflection/src/model/TypeCircuit.java" />
@@ -231,12 +227,13 @@
         <option value="$PROJECT_DIR$/6_Patterns_B/src/Demo_6.java" />
         <option value="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo_8.java" />
         <option value="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/Racecircuit.java" />
-        <option value="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo_8_JDBC.java" />
-        <option value="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/persist/RacecircuitDbDao.java" />
         <option value="$PROJECT_DIR$/10_Threads/src/src/be/kdg/racecircuit/data/Data.java" />
         <option value="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/RacecircuitFactory.java" />
         <option value="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/Racecircuit.java" />
         <option value="$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/threading/RacecircuitRunnable.java" />
+        <option value="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/persist/RacecircuitDbDao.java" />
+        <option value="$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo_8_JDBC.java" />
+        <option value="$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/Demo_8_JDBC.java" />
       </list>
     </option>
   </component>
@@ -392,122 +389,43 @@
             <path>
               <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="7_Streams" type="462c0819:PsiDirectoryNode" />
+              <item name="8_Persistentie" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="7_Streams" type="462c0819:PsiDirectoryNode" />
+              <item name="8_Persistentie" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
+              <item name="8_Persistentie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="7_Streams" type="462c0819:PsiDirectoryNode" />
+              <item name="8_Persistentie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="be" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="7_Streams" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="be" type="462c0819:PsiDirectoryNode" />
-              <item name="kdg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="7_Streams" type="462c0819:PsiDirectoryNode" />
+              <item name="8_Persistentie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="be" type="462c0819:PsiDirectoryNode" />
               <item name="kdg" type="462c0819:PsiDirectoryNode" />
-              <item name="racecircuit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="7_Streams" type="462c0819:PsiDirectoryNode" />
+              <item name="8_Persistentie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="be" type="462c0819:PsiDirectoryNode" />
               <item name="kdg" type="462c0819:PsiDirectoryNode" />
               <item name="racecircuit" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="7_Streams" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="be" type="462c0819:PsiDirectoryNode" />
-              <item name="kdg" type="462c0819:PsiDirectoryNode" />
-              <item name="racecircuit" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="10_Threads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="10_Threads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="10_Threads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="be" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="10_Threads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="be" type="462c0819:PsiDirectoryNode" />
-              <item name="kdg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="10_Threads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="be" type="462c0819:PsiDirectoryNode" />
-              <item name="kdg" type="462c0819:PsiDirectoryNode" />
-              <item name="racecircuit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="10_Threads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="be" type="462c0819:PsiDirectoryNode" />
-              <item name="kdg" type="462c0819:PsiDirectoryNode" />
-              <item name="racecircuit" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="10_Threads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="be" type="462c0819:PsiDirectoryNode" />
-              <item name="kdg" type="462c0819:PsiDirectoryNode" />
-              <item name="racecircuit" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Groeiproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groeiproject" type="462c0819:PsiDirectoryNode" />
-              <item name="10_Threads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="be" type="462c0819:PsiDirectoryNode" />
-              <item name="kdg" type="462c0819:PsiDirectoryNode" />
-              <item name="racecircuit" type="462c0819:PsiDirectoryNode" />
-              <item name="threading" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -521,7 +439,7 @@
     <property name="DatabaseDriversLRU" value="sqlite&#10;hsqldb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544612188605" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544614047917" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Voorbeelden_Opdrachten_11_Synchronization" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -598,7 +516,7 @@
     </configuration>
     <configuration name="Demo_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.kdg.racecircuit.Demo_8" />
-      <module name="8_Persisentie" />
+      <module name="8_Persistentie" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -612,7 +530,7 @@
     </configuration>
     <configuration name="Demo_8_JDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.kdg.racecircuit.Demo_8_JDBC" />
-      <module name="8_Persisentie" />
+      <module name="8_Persistentie" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -646,6 +564,53 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="8_Persistentie" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="8_Persistentie" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -738,7 +703,7 @@
       <workItem from="1544362354882" duration="10763000" />
       <workItem from="1544537179653" duration="1927000" />
       <workItem from="1544600122880" duration="611000" />
-      <workItem from="1544611105414" duration="922000" />
+      <workItem from="1544611105414" duration="2940000" />
     </task>
     <servers />
   </component>
@@ -775,13 +740,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146757000" />
+    <option name="totallyTimeSpent" value="148775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22080536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22080536" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -790,12 +754,12 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32979852" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8201342" weight="0.33427763" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8194631" visible="true" weight="0.33427763" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48958334" weight="0.3997879" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.17986578" side_tool="true" visible="true" weight="0.33427763" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.18053691" side_tool="true" visible="true" weight="0.33427763" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Floobits" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
@@ -853,34 +817,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5_patterns_A/src/model/RacecircuitsInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5_patterns_A/src/patterns/ObservableRacecuits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="40" column="80" selection-start-line="40" selection-start-column="80" selection-end-line="40" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5_patterns_A/src/patterns/RacecuircuitsObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5_patterns_A/src/model/RacecircuitFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="71" column="81" selection-start-line="71" selection-start-column="81" selection-end-line="71" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6_Patterns_B/src/model/TypeCircuit.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -941,7 +877,7 @@
     <entry file="file://$PROJECT_DIR$/6_Patterns_B/6_Patterns_B.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/data/Data.java">
+    <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/data/Data.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
@@ -1000,21 +936,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/TypeCircuit.java">
+    <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/model/TypeCircuit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo.java">
+    <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/Racecircuits.java">
+    <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/model/Racecircuits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
@@ -1027,7 +963,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/15538951-df1a-496b-aaf8-f9ab037e3c1a/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/model/Racecircuit.java">
+    <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/model/Racecircuit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
@@ -1037,17 +973,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08084eac-fce5-471f-abe7-4e2cd06cb0d8/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo_8_JDBC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/Demo_8.java">
+    <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/Demo_8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="45" selection-start-line="45" selection-end-line="45" />
@@ -1057,7 +983,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/persist/RacecircuitDao.java">
+    <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/persist/RacecircuitDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
@@ -1079,13 +1005,6 @@
     <entry file="file://$PROJECT_DIR$/10_Threads/src/src/be/kdg/racecircuit/data/Data.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/8_Persisentie/src/be/kdg/racecircuit/persist/RacecircuitDbDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/TypeCircuit.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1106,13 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/RacecircuitFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1141,13 +1053,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_Streams/src/be/kdg/racecircuit/data/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7_Streams/src/be/kdg/racecircuit/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
@@ -1158,19 +1063,66 @@
     <entry file="file://$PROJECT_DIR$/7_Streams/src/be/kdg/racecircuit/demo_7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="92" column="69" lean-forward="true" selection-start-line="92" selection-start-column="69" selection-end-line="92" selection-end-column="69" />
+          <caret line="92" column="69" selection-start-line="92" selection-start-column="69" selection-end-line="92" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/model/RacecircuitFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/10_Threads/src/be/kdg/racecircuit/threading/RacecircuitRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="320">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/persist/RacecircuitDbDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost.script">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dbe91fec-318f-4e4b-a89f-ee3137bf6efe/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_Streams/src/be/kdg/racecircuit/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_Persistentie/src/be/kdg/racecircuit/Demo_8_JDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
           </folding>
         </state>
       </provider>

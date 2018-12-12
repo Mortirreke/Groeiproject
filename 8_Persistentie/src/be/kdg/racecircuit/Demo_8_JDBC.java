@@ -10,9 +10,7 @@ public class Demo_8_JDBC {
     public static final Logger L = Logger.getLogger(Demo_8_JDBC.class.getName());
 
     public static void main(String[] args) {
-        new RacecircuitDbDao("jdbc:hsqldb:file:/racecircuitdatabank/localhost");
-
-
+        new RacecircuitDbDao("jdbc:hsqldb:file:8_Persistentie/db/racecircuitdb");
     }
 
 }
